@@ -20,3 +20,11 @@ To use the components in your app, import them as follows:
 import { Button } from "@/components/ui/button";
 ```
 # mini-catalog
+
+# Project-1
+pada project ini saya membuat mini-catlaog, yang dengan
+- fetch api
+- render card
+- routing /products
+- struktur folder yang cukup rapi
+- UI menggunakan shadcn
